@@ -1,0 +1,6 @@
+{
+  "mainUrl" : "https://www.amazon.com.mx",
+  "browser" : "chrome",
+  "driversLocation" : "src/test/resources/drivers/",
+  "driverName" : "chromedriver"
+}
